@@ -121,13 +121,7 @@ python main.py
 
 首次运行时，程序会要求你登录QQ空间，之后会自动保存登录状态。
 
-### 2. 手动登录
-
-```bash
-python login.py
-```
-
-### 3. 测试API连接
+### 2. 测试API连接
 
 ```bash
 python test_qzone.py
